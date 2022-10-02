@@ -1,5 +1,5 @@
 # Automatic-Face-Sketching
-A Face Sketching Application, that detects face and draws sketch using Open CV
+A Face Sketching Application, that detects face and draws sketch using Open CV and python
 
 ## LIVE SKETCHING
 
